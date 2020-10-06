@@ -1,0 +1,76 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">\
+    <link rel="stylesheet" type="text/css" href="1.css">
+
+</head>
+<body>
+<span class="nen"></span>
+<h2>Welcome to Google!</h2>
+<form  action="welcome.php" method="post" enctype="multipart/form-data">
+	<div class="left">
+		 <pre> <h3>       Please enter some personal information 
+	so we can complete your company's Profile</h3> </pre>
+    <br>
+    <br>
+    <label>Enter your name:</label>
+    <input type="text" name="name" required><br><br>
+
+    <label>Enter your Email-address:</label>
+    <input type="email" name="email" required>
+    <br><br>
+    <label>Enter your age: </label>
+    <input type="number" name="agenum" min="5" max="130" required> 
+    <br><br>
+    <label>Enter your Github URL: </label>
+    <input type="url" name="github" placeholder="http://github.com/example" required><br><br>
+    <p>Select your gender</p>
+    <input class="check" type="radio" name="gender" value="Male" required> Male
+    <input class="check" type="radio" name="gender" value="Female" required> Female
+    <input class="check" type="radio" name="gender" value="Others" required> Others <br><br>
+
+    Select Your Birth Date:
+    <input type="date" name="birthdate" required><br>
+    <br>
+    <div class="sport">
+        <p>Kindly Select your favourite sports:</p>
+        <input class="check" type="checkbox" name="sport[]" value="Cricket">Cricket
+        <input class="check" type="checkbox" name="sport[]" value="Tennis">Tennis
+        <input class="check" type="checkbox" name="sport[]" value="Football">Football
+        <input class="check" type="checkbox" name="sport[]" value="Baseball">Baseball
+        <input class="check" type="checkbox" name="sport[]" value="Badminton">Badminton
+        <input class="check" type="checkbox" name="sport[]" value="Others">Others<br><br>
+    </div>
+
+
+    Pick your Favorite color: <br><br>
+    <input type="color" name="colorpick" value="#a52a2a" required>Click me<br><br>
+
+    <label>Upload your avatar image :</label>
+    <input type="file" name="avatar" required> <br>
+
+
+
+
+
+	</div>
+   <div class="right">
+   	<h3 style="font-size: 40px; margin-bottom: 100px;
+   	">Sign up your account</h3>
+    <label>Enter User name</label><br>
+    <input type="text" name="username" required><br>
+    <label>Enter Password</label><br>
+    <input type="Password" name="password" required><br> <br>
+
+    <input class="button" type="submit" value="Submit"> 
+    <input  class="button" type="reset" value="Reset">
+
+   </div>
+
+    
+
+</form>
+
+</body>
+</html>
