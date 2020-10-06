@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="23af9db2-c393-48d2-bfcb-21ea98b84a72" name="Default Changelist" comment="" />
+    <list default="true" id="23af9db2-c393-48d2-bfcb-21ea98b84a72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/welcome.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +34,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iVRcoUzLjCaGpglIlJmtEpqyn6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tab tuan 2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,17 +58,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601990854427</updated>
-      <workItem from="1601990855536" duration="1549000" />
+      <workItem from="1601990855536" duration="1744000" />
+      <workItem from="1601994184323" duration="1886000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="516" y="78" key="#PHP" timestamp="1601990953040">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="516" y="78" key="#PHP/0.0.1603.873@0.0.1603.873" timestamp="1601990953039" />
+    <state x="581" y="190" key="FileChooserDialogImpl" timestamp="1601995254877">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="581" y="190" key="FileChooserDialogImpl/0.0.1603.873@0.0.1603.873" timestamp="1601995254877" />
+    <state x="682" y="333" key="Github.ShareDialog" timestamp="1601992481506">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="682" y="333" key="Github.ShareDialog/0.0.1603.873@0.0.1603.873" timestamp="1601992481506" />
+    <state x="564" y="140" key="Github.UntrackedFilesDialog" timestamp="1601992487337">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="564" y="140" key="Github.UntrackedFilesDialog/0.0.1603.873@0.0.1603.873" timestamp="1601992487337" />
   </component>
 </project>
